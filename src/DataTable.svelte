@@ -1,6 +1,6 @@
 <script>
-  import ArrowDownIcon from "../icons/ArrowDown.svelte";
-  import ArrowUpIcon from "../icons/ArrowUp.svelte";
+  import ArrowDownIcon from "./icons/ArrowDown.svelte";
+  import ArrowUpIcon from "./icons/ArrowUp.svelte";
 
   export let stripped = false;
   export let hover = false;

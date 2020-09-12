@@ -14,10 +14,25 @@
     "svelte": "^3.0.0"
   },
   "keywords": [
-    "svelte"
+    "svelte",
+    "tailwindcss",
+    "data-table",
+    "fouita"
   ],
   "files": [
     "src",
     "dist"
-  ]
+  ],
+  "description": "Responsive data-table built with svelte and tailwindcss",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fouita/svelte-tw-data-table.git"
+  },
+  "author": "fouita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fouita/svelte-tw-data-table/issues"
+  },
+  "homepage": "https://github.com/fouita/svelte-tw-data-table#readme"
 }

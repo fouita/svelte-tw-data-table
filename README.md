@@ -1,5 +1,7 @@
 # Responsive DataTable with svelte and tailwindcss
 
+Responsive data-table built with svelte and tailwindcss
+
 ## Installation
 ```bash
     $npm i @fouita/data-table -D

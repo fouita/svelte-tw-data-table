@@ -145,9 +145,9 @@ It goes the same for specific cells like the follwing
 		    "company": "XUMONK",
 		    "email": "arlene.cooley@xumonk.us",
 		    "phone": {
-					value: "+1 (926) 459-2880", 
-					_class: 'text-white bg-green-600 p-5 border-2 border-red-600 text-center'
-				},
+				value: "+1 (926) 459-2880", 
+				_class: 'text-white bg-green-600 p-5 border-2 border-red-600 text-center'
+			},
 		    "address": "659 Dupont Street, Lynn, West Virginia, 7173",
 				_class: 'bg-green-200 font-bold text-red-700 text-center'
 		  },

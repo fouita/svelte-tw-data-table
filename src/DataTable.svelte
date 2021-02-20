@@ -25,7 +25,7 @@
 
   // get string or object value
   function val(attr) {
-    if (!attr) return "";
+    if (attr===undefined||attr===null) return "";
     if (typeof attr === "object") return attr.value || "";
     return attr;
   }
